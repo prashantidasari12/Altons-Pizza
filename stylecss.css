@@ -1,0 +1,22 @@
+.background-jumbotron {
+	background-image:url("mixnmatch.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position: center center;
+	height:500px;
+}
+.pizza-image {
+	width:200px;	
+	height:100px;
+}
+.pizza-information {
+	background-color: rgb(66, 80, 244);
+	color:white;
+	text-align:center;
+}
+.bottom-footer {
+	text-align:center;
+}
+.grid-bottom {
+	margin-bottom:10px;
+}
